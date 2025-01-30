@@ -28,7 +28,7 @@ data_temp_new.csv — результаты измерения температу
 
 data_wire_new.csv — данные о проволочных материалах (объём);
 
-data_wire_time_new.csv — данные о проволочных материалах (время).\
+data_wire_time_new.csv — данные о проволочных материалах (время).
 
 #### Файл data_arc_new.csv
 
@@ -48,19 +48,19 @@ key — номер партии;
 
 Bulk 1 … Bulk 15 — объём подаваемого материала.
 
-Файл data_bulk_time_new.csv
+#### Файл data_bulk_time_new.csv
 
 key — номер партии;
 
 Bulk 1 … Bulk 15 — время подачи материала.
 
-Файл data_gas_new.csv
+#### Файл data_gas_new.csv
 
 key — номер партии;
 
 Газ 1 — объём подаваемого газа.
 
-Файл data_temp_new.csv
+#### Файл data_temp_new.csv
 
 key — номер партии;
 
@@ -68,13 +68,13 @@ key — номер партии;
 
 Температура — значение температуры.
 
-Файл data_wire_new.csv
+#### Файл data_wire_new.csv
 
 key — номер партии;
 
 Wire 1 … Wire 9 — объём подаваемых проволочных материалов.
 
-Файл data_wire_time_new.csv
+#### Файл data_wire_time_new.csv
 
 key — номер партии;
 
